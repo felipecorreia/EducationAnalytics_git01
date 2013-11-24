@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome_app: MyString
+  tipo_evento: MyString
+  qtd_evento: 
+
+two:
+  nome_app: MyString
+  tipo_evento: MyString
+  qtd_evento: 
